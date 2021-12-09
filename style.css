@@ -1,5 +1,5 @@
 body {
-    background-color: #93c9e98a;
+    background-color: #ffafoo;
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -11,7 +11,7 @@ body {
 }
 
 #header {
-    background-color: #009dae;
+    background-color: #ff4f6e;
     margin: 0;
     width: 100%;
     color: white;
